@@ -1,0 +1,76 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Montserrat' sans-serif;
+}
+
+.form{
+    border: 1px solid rgb(0, 0, 255);
+    width: 500px;
+    height: 500px;
+    margin: auto;
+    margin-top: 40px;
+    border-radius: 10px;
+}
+
+hr{
+    width: 450px;
+    margin-bottom: 40px;
+}
+
+.signin{
+    text-align: center;
+    font-size: 25px;
+    font-weight: bolder;
+    margin-top: 30px;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+    font-weight: bolder;
+}
+
+a:hover{
+    color: rgb(0, 0, 255);
+}
+
+.newpage{
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+.username{
+    font-weight: bold;
+    width: 420px;
+    margin: 0 23px 20px;
+    height: 35px;
+    padding: 6px 15px;
+    border-radius: 5px;
+    border: 1px solid rgb(211, 211, 211);
+    font-size: 14px;
+}
+
+.btn{
+    width: 453px;
+    height: 40px;
+    background-color: rgb(0, 0, 255);
+    color: white;
+    border: none;
+    border-radius: 5px;
+    margin: 0 23px 20px;
+    font-size: 15px;
+    font-weight: bolder;
+}
+
+.btn:hover{
+    background-color: rgb(0, 0, 136);
+    color: white;
+}
+.forgotpassword{
+    color: rgb(165, 165, 165);
+    text-align: center;
+    font-size: 13px;
+}
+
+
